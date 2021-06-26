@@ -3,3 +3,7 @@ Chicken
 Beef
 Cheese
 Bread
+
+Milk
+
+water
