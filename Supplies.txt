@@ -1,3 +1,6 @@
 keyboard
 mouse
 monitor
+hub
+switch
+router
